@@ -1,3 +1,3 @@
 
-valid_email = "trukhanov.ag@mail.ru"
-valid_password = "Boombox17!"
+valid_email = alexandrknyazev89@mail.ru"
+valid_password = "qwertyuiop261389"
